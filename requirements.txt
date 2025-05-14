@@ -1,0 +1,7 @@
+Requirements To Run : 
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit-option-menu
