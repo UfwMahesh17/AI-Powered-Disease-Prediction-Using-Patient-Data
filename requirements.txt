@@ -1,14 +1,6 @@
-fixed_requirements = """
 streamlit==1.45.1
 pandas
 numpy
 scikit-learn
 matplotlib
 streamlit-option-menu==0.3.6
-"""
-
-file_path = "/mnt/data/requirements.txt"
-with open(file_path, "w") as f:
-    f.write(fixed_requirements.strip())
-
-file_path
