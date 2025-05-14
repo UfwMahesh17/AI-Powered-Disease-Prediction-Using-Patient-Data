@@ -5,12 +5,6 @@ With the increase in lifestyle-related diseases and the vast amount of patient d
 
 This project aims to develop an AI-powered disease predictor using patient data (e.g., symptoms, lab results, demographics) to classify and forecast potential diseases.
 
-Requirements To Run : 
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-streamlit-option-menu
+
 
 
